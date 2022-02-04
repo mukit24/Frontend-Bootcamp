@@ -4,6 +4,10 @@ body::before{
     height: 60px;
 }
 
+#map_img{
+    height: 400px;
+}
+
 @media (min-width: 768px){
     .news-input{
         width: 50%;
